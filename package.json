@@ -4,7 +4,7 @@
   "description": "Web proxy based on Ultraviolet",
   "repository": {
 		"type": "git",
-		"url": "https://github.com/alive-hamster/Supernova.git"
+		"url": "https://github.com/alive-hamster/Basic-Ultraviolet-backend.git"
 	},
   "engines": {
     "npm": ">=9.0.0",
